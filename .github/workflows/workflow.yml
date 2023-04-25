@@ -15,4 +15,3 @@ checkout_and_verify_java:
  distribution: 'adopt'
  - name: Verify Java installation
  run: java -version
- 
